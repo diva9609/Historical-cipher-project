@@ -1,0 +1,10 @@
+numpy
+opencv-contrib-python
+h5py
+scikit-learn
+scikit-image
+scipy
+matplotlib
+tqdm
+natsort
+jiwer
